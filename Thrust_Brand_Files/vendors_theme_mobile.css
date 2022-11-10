@@ -31720,7 +31720,7 @@ body.search .no-results .search-form input[type="submit"] {
   }
   .pb-md-6,
   .py-md-6 {
-    padding-bottom: 4.5rem !important;
+    padding-bottom: 0rem !important;
   }
   .pl-md-6,
   .px-md-6 {
